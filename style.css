@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.heading{
+    height: 110px;
+    background-color: #B2A4FF;
+}
+
+.h1heading{
+    font-size: 40px;
+    font-family: cursive;
+    padding: 26px;
+    text-align: center;
+}
+
+.button{
+    color: black;
+    position: relative;
+    top: 50vh;
+    left: 44vw;
+    padding: 12px;
+    width: 15rem;
+    border-radius: 2rem;
+    border: double;
+    border-color: whitesmoke;
+    font-size: 22px;
+    background-color: #1e1e1e;
+    color: floralwhite;
+}
+
+.button:hover{
+    background-color:#3AB4F2;
+}
+
